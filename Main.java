@@ -22,4 +22,5 @@ public static class Story{
   System.out.println("You are in the "+setting+".");
   System.out.println("You are "+character+".");
   System.out.println("Your favorite color is "+color+".");
+    //Hi Logan was here.    
 }}}
